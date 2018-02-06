@@ -2,10 +2,10 @@
 <widget id="com.phonegap.milky" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Milky</name>
     <description>
-        Milky App
+        Milky App Powered By Miss Milky
     </description>
     <author email="nikita.prajapati@staroneweb.co.in" href="http://milkyplus.co.in">
-        Milky App Powered By Miss Milky
+        Milky
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
